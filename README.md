@@ -61,8 +61,14 @@ Auth          →  JWT (cookies), Axios interceptors, refresh token queues
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannaFrangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HannaFrangi&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HannaFrangi&theme=github_dark" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HannaFrangi&theme=github_dark" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannaFrangi&theme=github_dark" />
 
 </div>
 
@@ -72,7 +78,7 @@ Auth          →  JWT (cookies), Axios interceptors, refresh token queues
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HannaFrangi&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=HannaFrangi&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -82,7 +88,7 @@ Auth          →  JWT (cookies), Axios interceptors, refresh token queues
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HannaFrangi&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HannaFrangi&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
